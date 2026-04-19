@@ -2,7 +2,7 @@
 
 > **Paste any text. See exactly how it's trying to manipulate you.**
 
-InfluenceScore is an AI-powered psychological influence detector. It analyzes any piece of content — news headlines, political speeches, WhatsApp forwards, ads — and maps out which manipulation tactics are being used and how intensely.
+InfluenceScore is an AI-powered psychological influence detector. It analyzes any piece of content news headlines, political speeches, WhatsApp forwards, ads and maps out which manipulation tactics are being used and how intensely.
 
 Built for **InfluenceHacks** hackathon.
 
@@ -12,7 +12,7 @@ Built for **InfluenceHacks** hackathon.
 
 You paste text. The AI reads it and gives you back:
 
-- **A radar chart** with 7 spokes — one per psychological tactic
+- **A radar chart** with 7 spokes one per psychological tactic
 - **Scored bars** showing intensity (0–100) for each tactic
 - **An overall InfluenceScore** with a color-coded verdict
 - **A plain-English breakdown** explaining exactly what's being done to you

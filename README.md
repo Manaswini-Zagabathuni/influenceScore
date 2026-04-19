@@ -1,4 +1,4 @@
-# InfluenceScore 🕵️
+# InfluenceScore 
 
 > **Paste any text. See exactly how it's trying to manipulate you.**
 
@@ -166,7 +166,3 @@ VITE_API_URL=http://localhost:8000
 ```
 
 ---
-
-## License
-
-MIT — built at InfluenceHacks 2025.

@@ -76,7 +76,7 @@ influencescore/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/influencescore.git
+git clone https://github.com/Manaswini-Zagabathuni/influenceScore.git
 cd influencescore
 ```
 

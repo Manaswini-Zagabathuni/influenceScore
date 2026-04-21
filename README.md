@@ -24,7 +24,7 @@ You paste text. The AI reads it and gives you back:
 | **Fear** | Language designed to scare or threaten |
 | **Authority** | Name-dropping experts, institutions, credentials |
 | **Social Proof** | "Everyone believes this" pressure |
-| **Scarcity** | Fake urgency — "limited time", "last chance" |
+| **Scarcity** | Fake urgency - "limited time", "last chance" |
 | **Reciprocity** | Making you feel obligated |
 | **Emotion** | Emotionally charged or manipulative language |
 | **Logic Fallacies** | Flawed reasoning used to trick you |

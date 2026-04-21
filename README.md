@@ -4,7 +4,7 @@
 
 InfluenceScore is an AI-powered psychological influence detector. It analyzes any piece of content news headlines, political speeches, WhatsApp forwards, ads and maps out which manipulation tactics are being used and how intensely.
 
-Built for **InfluenceHacks** hackathon. 
+Built for **InfluenceHacks** hackathon.
 
 ---
 

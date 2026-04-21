@@ -159,7 +159,7 @@ VITE_API_URL=http://localhost:8000
     { "name": "Fear", "score": 85, "note": "Uses imminent threat language" },
     ...
   ],
-  "overall": 72,
+  "overall": 72, 
   "verdict": "Highly manipulative content",
   "analysis": "This content heavily relies on Fear and Scarcity..."
 }

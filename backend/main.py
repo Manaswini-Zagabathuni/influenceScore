@@ -2,7 +2,7 @@ import os
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
-
+ 
 from models import AnalyzeRequest, AnalyzeResponse, HealthResponse
 from analyzer import analyze_text
 

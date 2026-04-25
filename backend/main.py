@@ -7,7 +7,7 @@ from models import AnalyzeRequest, AnalyzeResponse, HealthResponse
 from analyzer import analyze_text
 
 load_dotenv()
-
+ 
 app = FastAPI(
     title="InfluenceScore API",
     description="AI-powered psychological influence detector",

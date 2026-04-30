@@ -7,6 +7,7 @@ from fastapi.testclient import TestClient
 import sys
 import os
 
+
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 # Set a dummy key so the app loads without error

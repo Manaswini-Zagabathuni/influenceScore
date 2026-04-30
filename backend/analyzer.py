@@ -6,7 +6,7 @@ SYSTEM_PROMPT = """You are InfluenceScore, a psychological influence analysis en
 Analyze any text for 7 manipulation tactics and return ONLY valid JSON — no markdown, no preamble, no explanation outside the JSON.
 
 Return this exact structure:
-{
+{ 
   "tactics": [
     {"name": "Fear", "score": 0-100, "note": "one sentence explaining why this score"},
     {"name": "Authority", "score": 0-100, "note": "one sentence explaining why this score"},
